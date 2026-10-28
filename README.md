@@ -37,7 +37,7 @@ Hi, I’m Bruna! 👋 I’m a first-year BUT Informatique student at UPEC in Cr�
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
