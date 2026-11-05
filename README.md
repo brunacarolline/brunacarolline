@@ -81,5 +81,8 @@ Hi, I’m Bruna! 👋 I’m a first-year BUT Informatique student at UPEC in Cr�
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunacarolline&theme=tokyonight&layout=compact&langs_count=9"
   />
 </p>
-
-
+<br/>
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brunacarolline/brunacarolline/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
